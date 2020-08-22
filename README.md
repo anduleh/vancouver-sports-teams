@@ -119,19 +119,6 @@ df_lions.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -222,7 +209,6 @@ plt.ylabel('Win Percentage (%)')
 
 
 
-    Text(0, 0.5, 'Win Percentage (%)')
 
 
 
@@ -255,19 +241,7 @@ df_canadians.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -329,19 +303,7 @@ df_canadians.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -432,7 +394,6 @@ plt.ylabel('Win Percentage (%)')
 
 
 
-    Text(0, 0.5, 'Win Percentage (%)')
 
 
 
@@ -475,19 +436,7 @@ df_canucks.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -549,19 +498,7 @@ df_canucks.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -653,7 +590,7 @@ plt.ylabel('Win Percentage (%)')
 
 
 
-    Text(0, 0.5, 'Win Percentage (%)')
+    
 
 
 
@@ -733,7 +670,7 @@ plt.ylabel('Win Percentage (%)')
 
 
 
-    Text(0, 0.5, 'Win Percentage (%)')
+    
 
 
 
@@ -763,19 +700,7 @@ df_warriors.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -837,19 +762,7 @@ df_warriors.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -940,7 +853,7 @@ plt.ylabel('Win Percentage (%)')
 
 
 
-    Text(0, 0.5, 'Win Percentage (%)')
+    
 
 
 
@@ -967,19 +880,7 @@ df_whitecaps.head()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1047,19 +948,7 @@ df_whitecaps.describe()
 
 
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -1159,7 +1048,7 @@ plt.ylabel('Win Percentage (%)')
 
 
 
-    Text(0, 0.5, 'Win Percentage (%)')
+    
 
 
 
@@ -1195,7 +1084,7 @@ plt.ylabel('Win Percentage (%)')
 
 
 
-    Text(0, 0.5, 'Win Percentage (%)')
+    
 
 
 
