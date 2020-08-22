@@ -1,6 +1,6 @@
 ## Question: Which Vancouver sports team should you cheer for? 🏒
 
-It's no secret that most of us reading this are bandwagoners - but fear not! If we are going to embrace bandwagoning, we should obviously turn our attention to the team that has the best win percentage. In Vancouver, there are six professional sports teams that battle at the highest level amongst their respective leagues. These leagues range from football to soccer to baseball and even to gaming. The question is: **Which professional sports team in Vancouver has the best win percentage throughout the years? Which team should I cheer for year-to-year that gives me the best chance to do my victory dance?**
+It's no secret that most of us reading this are bandwagoners - but fear not! If we are going to embrace bandwagoning, we should obviously turn our attention to the team that has the best win percentage. In Vancouver, there are six professional sports teams that battle at the highest level amongst their respective leagues. These leagues range from football to soccer to baseball and even to gaming. The question is: **Which professional sports team in Vancouver has the best win percentage over time?**
 
 ![Vancouver Sports Teams](vancouver_sports_teams_files/vancouver_sports_teams.jpg)
 
@@ -57,20 +57,7 @@ df_lions.head()
 
 
 
-<div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
 
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
