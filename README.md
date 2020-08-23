@@ -1,4 +1,4 @@
-## Question: Which Vancouver sports team should you cheer for? 🏒
+## Win percentages of Vancouver sports teams over time 🏒
 
 Bandwagoning is an art! And to embrace bandwagoning, we should definetely turn our attention to the teams with the best win percentages. In Vancouver, there are six professional sports teams that battle at the highest level amongst their respective leagues. These leagues range from football to soccer to baseball and even to gaming. The question is: **Which professional sports team in Vancouver has the best win percentage over time?**
 
