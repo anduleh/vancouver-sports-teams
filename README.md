@@ -1,6 +1,6 @@
 ## Question: Which Vancouver sports team should you cheer for? 🏒
 
-Bandwagoning is an art! To embrace bandwagoning, we should turn our attention to teams with the best win percentage. In Vancouver, there are six professional sports teams that battle at the highest level amongst their respective leagues. These leagues range from football to soccer to baseball and even to gaming. The question is: **Which professional sports team in Vancouver has the best win percentage over time?**
+Bandwagoning is an art! And to embrace bandwagoning, we should definetely turn our attention to the teams with the best win percentages. In Vancouver, there are six professional sports teams that battle at the highest level amongst their respective leagues. These leagues range from football to soccer to baseball and even to gaming. The question is: **Which professional sports team in Vancouver has the best win percentage over time?**
 
 ![Vancouver Sports Teams](vancouver_sports_teams_files/vancouver_sports_teams.jpg)
 
